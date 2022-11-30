@@ -17,7 +17,7 @@
 <img src="https://img.onl/aet4AI" alt="Cover" width="20%"/>
 
 - 圖文選單點擊，右側為GIPHY官方更新的受歡迎趨勢排行的GIF圖。
-<img src="https://img.onl/8T6fMq" alt="Cover" width="20%"/>
+<img src="https://img.onl/0OlaMv" alt="Cover" width="20%"/>
 
 - 圖文選單點擊，左側為GIPHY官方提供的透明背景GIF圖。
 <img src="https://img.onl/30pO0J" alt="Cover" width="20%"/>
