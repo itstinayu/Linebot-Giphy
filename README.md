@@ -11,7 +11,7 @@
 
 
 - 搜尋關鍵字，例如:FIFA。
-<img src="https://img.onl/gmJhxz" alt="Cover" width="20%"/>
+<img src="https://img.onl/w0iDBk" alt="Cover" width="20%"/>
 
 - 搜尋關鍵字，支援中文，例如:聖誕節。
 <img src="https://img.onl/aet4AI" alt="Cover" width="20%"/>
