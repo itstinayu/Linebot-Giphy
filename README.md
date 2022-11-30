@@ -3,4 +3,4 @@
 
 
 <!-- ![](https://img.onl/O3vbsB){:height="10%" width="10%"} -->
-<img src="https://img.onl/O3vbsB" alt="Cover" width="50%"/>
+<img src="https://img.onl/O3vbsB" alt="Cover" width="20%"/>
