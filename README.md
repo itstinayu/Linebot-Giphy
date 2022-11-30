@@ -1,9 +1,12 @@
 # LINEBOT GIPHY
 ## 歡迎加入 [GIPHYGO](https://line.me/R/ti/p/@342qbbsi) 或ID搜尋:@342qbbsi
 
-[GIPHY](https://giphy.com/) 是一個GIF搜尋引擎。
+###### [GIPHY](https://giphy.com/) 是一個GIF搜尋引擎。
 不僅提供GIF循環動圖……還有Stickers、Clips、Stories等等，讓日常訊息對話及影音創作者的作品更有趣。
 <img src="https://img.onl/30KFIg" alt="Cover" width="50%"/>
+
+###### 利用Line機器人，可以直接在Line應用軟體中至GIPHYGO搜尋，下載圖片或連結至官網觀看更多圖片。
+
 
 
 - 搜尋關鍵字，例如:FIFA。
