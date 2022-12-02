@@ -3,7 +3,7 @@
 
 ###### [GIPHY](https://giphy.com/) 是一個GIF搜尋引擎。
 ###### 不僅提供GIF循環動圖……還有Stickers、Clips、Stories等等，讓日常訊息對話及影音創作者的作品更有趣。
-###### 利用Line機器人，可以直接在Line應用軟體中至GIPHYGO搜尋，下載圖片或連結至官網觀看更多圖片。
+###### 利用GIPHYGO Line機器人，可以直接在Line應用軟體中至GIPHYGO搜尋，下載圖片或連結至官網觀看更多圖片。
 <img src="https://img.onl/30KFIg" alt="Cover" width="50%"/>
 
 
@@ -21,3 +21,6 @@
 
 - 圖文選單點擊，左側為GIPHY官方提供的透明背景GIF圖。
 <img src="https://img.onl/30pO0J" alt="Cover" width="20%"/>
+
+
+npm參考資源:[giphy-api](https://www.npmjs.com/package/giphy-api)
