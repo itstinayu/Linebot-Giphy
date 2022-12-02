@@ -1,5 +1,5 @@
 # LINEBOT GIPHY
-## 歡迎加入 [GIPHYGO](https://line.me/R/ti/p/@342qbbsi) 或ID搜尋:@342qbbsi
+### 歡迎加入 [GIPHYGO](https://line.me/R/ti/p/@342qbbsi) 或ID搜尋:@342qbbsi
 
 ###### [GIPHY](https://giphy.com/) 是一個GIF搜尋引擎。
 ###### 不僅提供GIF循環動圖……還有Stickers、Clips、Stories等等，讓日常訊息對話及影音創作者的作品更有趣。
